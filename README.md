@@ -1,33 +1,19 @@
-### Olá, Meu nome é Ícaro Pecinalli 👋
+### Olá, Meu nome é Ícaro Pecinalli 👋😁
 
-[[!Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/icaropecinalli/)
+### ⠀⠀⠀
 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/icaropecinalli/)
+[![LinKedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/icaropecinalli/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Pecinallix)
 
+![Pecinallix GitHub stats](https://github-readme-stats.vercel.app/api?username=pecinallix&show_icons=true&theme=dracula)
 
+## Tecnologias que jé usei
 
+<div style=display: inline_block><br/>
+<img align="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+<img align="center" alt="Css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+<img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+</div>
 
-
-
-
-
-
-
-
-
-
-
-
-<!--
-**Pecinallix/Pecinallix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Ser desenvolvedor é uma viagem onde a próxima parada é a solução de um problema.
