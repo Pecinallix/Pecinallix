@@ -7,6 +7,8 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Pecinallix)
 
 ![Pecinallix GitHub stats](https://github-readme-stats.vercel.app/api?username=pecinallix&show_icons=true&theme=dracula)
+![Pecinallix GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pecinallix&layout=compact&langs_count=7&theme=dracula)
+
 
 ## Tecnologias que jé usei
 
@@ -16,5 +18,5 @@
 <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div><br/>
 
-![Pecinallix GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pecinallix&theme=blue-green)
+![Pecinallix GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pecinallix&theme=dracula)
 
