@@ -1,9 +1,8 @@
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:3CAAFF,100:5bffff&height=120&section=header"/>
-<h1>Olá, mundo! Meu nome é Ícaro!👋</h1> 
+<h1 >Olá, mundo! Meu nome é Ícaro!👋 </h1> 
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right" style="margin-top: 20px;">
+</br></br>
 <p align="left"> 
 Sou carioca, tenho 31 anos e sou <strong>Desenvolvedor Front-End</strong>.
 
@@ -11,7 +10,7 @@ Estou cursando Análise e Desenvolvimento de Sistemas na Universidade Estácio d
 
 Estou sempre em busca de desafios e oportunidades para aprender e crescer. Se você estiver interessado em colaborar ou compartilhar ideias, não hesite em entrar em contato comigo. Adoro conhecer novas pessoas e explorar maneiras de tornar o mundo digital um lugar melhor.
 </p>
-  
+  </br>
 <h2 align="left">
   👾 Linguagens:
 </h2>
