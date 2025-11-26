@@ -1,18 +1,18 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:3CAAFF,100:5bffff&height=120&section=header"/>
-<h1 >Olá, mundo! Meu nome é Ícaro!👋 </h1> 
+<h1 >Olá, mundo! Meu nome é Ícaro!👋 </h1>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right" style="margin-top: 20px;">
-</br></br>
-<p align="left"> 
-Sou carioca, tenho 31 anos e sou <strong>Desenvolvedor Front-End</strong>.
+<br><br>
+<p align="left">
+Sou <strong>Desenvolvedor Front-End</strong>.
 
-Estou cursando Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá e atualmente estou focado em aprimorar minhas habilidades como desenvolvedor.
+Sou graduado em <strong>Análise e Desenvolvimento de Sistemas</strong> pela Universidade Estácio de Sá. Atualmente, sigo focado em aprimorar minhas habilidades técnicas e criar interfaces modernas e eficientes.
 
-Estou sempre em busca de desafios e oportunidades para aprender e crescer. Se você estiver interessado em colaborar ou compartilhar ideias, não hesite em entrar em contato comigo. Adoro conhecer novas pessoas e explorar maneiras de tornar o mundo digital um lugar melhor.
+Estou sempre em busca de novos desafios e oportunidades de crescimento profissional. Se você estiver interessado em colaborar ou compartilhar ideias, não hesite em entrar em contato. Adoro fazer networking e explorar novas tecnologias.
 </p>
-  </br>
+<br>
 <h2 align="left">
-  👾 Linguagens:
+  👾 Tecnologias:
 </h2>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -61,4 +61,3 @@ Estou sempre em busca de desafios e oportunidades para aprender e crescer. Se vo
 </p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:3CAAFF,100:5bffff&height=120&section=footer"/>
-
