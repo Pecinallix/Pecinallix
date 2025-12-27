@@ -5,9 +5,11 @@
 </div>
 
 <br>
-
+<br>
+<br>
 
 ## 🚀 Sobre mim
+
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 Sou **Desenvolvedor Front-End** apaixonado por criar experiências digitais incríveis e interfaces que fazem a diferença na vida das pessoas.
@@ -46,24 +48,17 @@ Sou **Desenvolvedor Front-End** apaixonado por criar experiências digitais incr
 ## 📊 Estatísticas do GitHub
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=pecinallix&show_icons=true&count_private=true&hide_border=true&title_color=5bffff&icon_color=5bffff&text_color=c9d1d9&bg_color=0d1117" alt="Ícaro Pecinalli github stats" /> 
-  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pecinallix&layout=compact&hide_border=true&title_color=5bffff&text_color=c9d1d9&bg_color=0d1117" />
-</div>
-
-<div align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=pecinallix&theme=dark&hide_border=true&background=0D1117&stroke=5bffff&ring=5bffff&fire=5bffff&currStreakLabel=5bffff" alt="Ícaro Pecinalli streak stats"/>
+  <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=pecinallix&show_icons=true&count_private=true&hide_border=true&title_color=5bffff&icon_color=5bffff&text_color=c9d1d9&bg_color=0d1117" alt="Ícaro Pecinalli github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pecinallix&layout=compact&hide_border=true&title_color=5bffff&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
 <br>
 
-## 🏆 Conquistas GitHub
+## 📈 Atividade de Contribuições
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="repositório de troféus">
-    <img width="90%" src="https://github-profile-trophy.vercel.app/?username=pecinallix&column=7&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
-  </a>
-</p>
+<div align="center">
+  <img alt="Gráfico de atividade" src="https://github-readme-activity-graph.vercel.app/graph?username=pecinallix&bg_color=0d1117&color=5bffff&line=5bffff&point=5bffff&area=true&hide_border=true" />
+</div>
 
 <br>
 
