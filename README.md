@@ -14,7 +14,7 @@
 
 Sou **Desenvolvedor Front-End** apaixonado por criar experiências digitais incríveis e interfaces que fazem a diferença na vida das pessoas.
 
-🎓 Graduado em **Análise e Desenvolvimento de Sistemas** pela Universidade Estácio de Sá
+-Graduado em **Análise e Desenvolvimento de Sistemas** pela Universidade Estácio de Sá
 
 -Focado em aprimorar minhas habilidades técnicas e criar interfaces modernas, responsivas e eficientes
 
