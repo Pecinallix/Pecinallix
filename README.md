@@ -96,7 +96,7 @@ Estou sempre aberto para conversar sobre desenvolvimento, trocar ideias ou colab
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=pecinallix&color=5bffff&style=for-the-badge&label=VISUALIZAÇÕES+DO+PERFIL" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=pecinallix&color=2986CC&style=for-the-badge&label=VISUALIZAÇÕES+DO+PERFIL" alt="Profile views" />
 </div>
 
 <br>
