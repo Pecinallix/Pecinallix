@@ -1,67 +1,66 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:3CAAFF,100:5bffff&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:1A56DB,100:3CAAFF&height=120&section=header"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=5bffff&size=40&center=true&vCenter=true&width=1000&lines=Olá,+Mundo!+Meu+nome+é+Ícaro!+👋;Desenvolvedor+apaixonado+por+tecnologia;Sempre+em+busca+de+novos+desafios!+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=3CAAFF&size=36&center=true&vCenter=true&width=1000&lines=Olá,+sou+Ícaro+Pecinalli!+👋;Desenvolvedor+Full+Stack;Do+layout+ao+deploy+—+do+início+ao+fim.+🚀" alt="Typing SVG" />
 </div>
 
 <br>
-<br>
-<br>
 
-## 🚀 Sobre mim
+## 🧑‍💻 Sobre mim
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-Sou **Desenvolvedor Front-End** apaixonado por criar experiências digitais incríveis e interfaces que fazem a diferença na vida das pessoas.
+Sou **Desenvolvedor Full Stack** com **3+ anos** transformando ideias em produtos digitais reais — do layout ao deploy.
 
--Graduado em **Análise e Desenvolvimento de Sistemas** pela Universidade Estácio de Sá
-
--Focado em aprimorar minhas habilidades técnicas e criar interfaces modernas, responsivas e eficientes
-
--Sempre explorando novas tecnologias e tendências do desenvolvimento web
-
--Em busca constante de novos desafios e oportunidades de crescimento profissional
-
--Adoro fazer networking e compartilhar conhecimento com a comunidade dev
+- 🏗️ Especializado em **React, Next.js, TypeScript e Node.js**
+- ⚙️ Experiência em **APIs REST, MySQL, MongoDB, AWS e Firebase**
+- 🤖 Automações inteligentes via **Telegram e WhatsApp**
+- 🎮 Desenvolvimento de sistemas em **C++** para servidores de jogos
+- 🧠 Mentalidade de produto: entendo o negócio, não só o código
+- 🚀 **8+ projetos em produção** atendendo usuários reais
+- 🤝 Cofundador de ventures digitais com foco em tecnologia
+- 📬 Aberto para: **full-time, freela e projetos desafiadores**
 
 <br clear="right"/>
 
-## 🛠️ Tecnologias & Ferramentas
+## 🛠️ Stack Técnico
 
 ### Front-end
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Responsive Design](https://img.shields.io/badge/Responsive_Design-00C4CC?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Back-end
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-### Database
+### Banco de Dados & Cloud
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-F05032?style=for-the-badge&logo=mysql&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
 ### Ferramentas & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 <br>
 
 ## 📊 Estatísticas do GitHub
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=pecinallix&show_icons=true&count_private=true&hide_border=true&title_color=5bffff&icon_color=5bffff&text_color=c9d1d9&bg_color=0d1117" alt="Ícaro Pecinalli github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pecinallix&layout=compact&hide_border=true&title_color=5bffff&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=pecinallix&show_icons=true&count_private=true&hide_border=true&title_color=3CAAFF&icon_color=3CAAFF&text_color=c9d1d9&bg_color=0d1117" alt="Ícaro Pecinalli github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pecinallix&layout=compact&hide_border=true&title_color=3CAAFF&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
 <br>
@@ -69,26 +68,38 @@ Sou **Desenvolvedor Front-End** apaixonado por criar experiências digitais incr
 ## 📈 Atividade de Contribuições
 
 <div align="center">
-  <img alt="Gráfico de atividade" src="https://github-readme-activity-graph.vercel.app/graph?username=pecinallix&bg_color=0d1117&color=5bffff&line=5bffff&point=5bffff&area=true&hide_border=true" />
+  <img alt="Gráfico de atividade" src="https://github-readme-activity-graph.vercel.app/graph?username=pecinallix&bg_color=0d1117&color=3CAAFF&line=3CAAFF&point=3CAAFF&area=true&hide_border=true" />
+</div>
+
+<br>
+
+## 🏆 Impacto entregue
+
+<div align="center">
+
+| 🚀 8+ projetos em produção | 🤝 Cofundador de venture digital | 🎮 Scripts C++ para servidores |
+|:--------------------------:|:--------------------------------:|:------------------------------:|
+| Atendendo usuários reais | Marketing, Vertrauen, Altuori | Ragnarok Online custom servers |
+
 </div>
 
 <br>
 
 ## 💼 Vamos nos conectar?
 
-Estou sempre aberto para conversar sobre desenvolvimento, trocar ideias ou colaborar em projetos interessantes. Sinta-se à vontade para entrar em contato!
+Estou aberto para conversar sobre desenvolvimento, colaborar em projetos ou discutir novas oportunidades!
 
 <div align="center">
   <a href="https://www.linkedin.com/in/icaropecinalli/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  <a href="https://icaropecinalli.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-1A56DB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio"/>
+  </a>
   <a href="https://wa.me/+5522996279550" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
-  <a href="https://www.instagram.com/icaropecinalli/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="mailto:seuemail@exemplo.com" target="_blank">
+  <a href="mailto:icaropecinalli@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
@@ -96,7 +107,7 @@ Estou sempre aberto para conversar sobre desenvolvimento, trocar ideias ou colab
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=pecinallix&color=2986CC&style=for-the-badge&label=VISUALIZAÇÕES+DO+PERFIL" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=pecinallix&color=1A56DB&style=for-the-badge&label=VISUALIZAÇÕES+DO+PERFIL" alt="Profile views" />
 </div>
 
 <br>
@@ -104,8 +115,7 @@ Estou sempre aberto para conversar sobre desenvolvimento, trocar ideias ou colab
 ---
 
 <div align="center">
-  <p>⭐️ Se você gostou do meu perfil, não esqueça de dar uma estrela nos repositórios! ⭐️</p>
-  <p>💡 <i>"O único modo de fazer um excelente trabalho é amar o que você faz"</i> - Steve Jobs</p>
+  <p>💡 <i>"Código bom é aquele que resolve problemas reais."</i></p>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:3CAAFF,100:5bffff&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:1A56DB,100:3CAAFF&height=120&section=footer"/>
