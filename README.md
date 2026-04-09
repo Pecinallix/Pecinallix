@@ -1,25 +1,25 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:1A56DB,100:3CAAFF&height=120&section=header"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=3CAAFF&size=36&center=true&vCenter=true&width=1000&lines=Olá,+sou+Ícaro+Pecinalli!+👋;Desenvolvedor+Full+Stack;Do+layout+ao+deploy+—+do+início+ao+fim.+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=3CAAFF&size=36&center=true&vCenter=true&width=1000&lines=Olá,+sou+Ícaro+Pecinalli!;Desenvolvedor+Full+Stack;Do+layout+ao+deploy+—+do+início+ao+fim." alt="Typing SVG" />
 </div>
 
 <br>
 
-## 🧑‍💻 Sobre mim
+## Sobre mim
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 Sou **Desenvolvedor Full Stack** com **3+ anos** transformando ideias em produtos digitais reais — do layout ao deploy.
 
-- 🏗️ Especializado em **React, Next.js, TypeScript e Node.js**
-- ⚙️ Experiência em **APIs REST, MySQL, MongoDB, AWS e Firebase**
-- 🤖 Automações inteligentes via **Telegram e WhatsApp**
-- 🎮 Desenvolvimento de sistemas em **C++** para servidores de jogos
-- 🧠 Mentalidade de produto: entendo o negócio, não só o código
-- 🚀 **8+ projetos em produção** atendendo usuários reais
-- 🤝 Cofundador de ventures digitais com foco em tecnologia
-- 📬 Aberto para: **full-time, freela e projetos desafiadores**
+-  Especializado em **React, Next.js, TypeScript e Node.js**
+-  Experiência em **APIs REST, MySQL, MongoDB, AWS e Firebase**
+-  Automações inteligentes via **Telegram e WhatsApp**
+-  Desenvolvimento de sistemas em **C++** para servidores de jogos
+-  Mentalidade de produto: entendo o negócio, não só o código
+-  **8+ projetos em produção** atendendo usuários reais
+-  Cofundador de ventures digitais com foco em tecnologia
+-  Aberto para: **full-time, freela e projetos desafiadores**
 
 <br clear="right"/>
 
@@ -85,7 +85,7 @@ Sou **Desenvolvedor Full Stack** com **3+ anos** transformando ideias em produto
 
 <br>
 
-## 💼 Vamos nos conectar?
+## Vamos nos conectar?
 
 Estou aberto para conversar sobre desenvolvimento, colaborar em projetos ou discutir novas oportunidades!
 
